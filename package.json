@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.68.0"
   },
-  "icon": "https://raw.githubusercontent.com/phildaniels/midnight-nebula-dusk-inferno/main/icons/icon.png",
+  "icon": "icons/icon.png",
   "categories": [
     "Themes"
   ],
@@ -18,5 +18,9 @@
         "path": "./themes/Midnight Nebula Dusk Inferno-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phildaniels/midnight-nebula-dusk-inferno.git"
   }
 }
