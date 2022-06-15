@@ -745,7 +745,7 @@
         "constant.character.escape.backslash.regexp"
       ],
       "settings": {
-        "foreground": "#CD81FF",
+        "foreground": "#cd81ff",
         "fontStyle": ""
       }
     },
@@ -912,7 +912,7 @@
         "keyword.control.at-rule"
       ],
       "settings": {
-        "foreground": "#FF7A9B",
+        "foreground": "#ff7a9b",
         "fontStyle": ""
       }
     },
