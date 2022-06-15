@@ -14,7 +14,7 @@ All notable changes to the "midnight-nebula-dusk-inferno" extension will be docu
 
 ### Fixed
 
-- Slight error in the markdown of the readme
+- Slight error in the markdown of the changelog
 
 ## [0.2.0] Change Log - 2022-06-15
 
