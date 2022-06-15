@@ -1,0 +1,21 @@
+{
+    "name": "midnight-nebula-dusk-inferno",
+    "displayName": "Midnight Nebula Dusk Inferno",
+    "description": "A theme that combines the syntax highlighting of \"Nebula Inferno\" and the editor colors of \"Midnight Dusk\"",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Nebula Dusk Inferno",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight Nebula Dusk Inferno-color-theme.json"
+            }
+        ]
+    }
+}
