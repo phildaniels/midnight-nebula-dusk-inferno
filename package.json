@@ -2,7 +2,7 @@
   "name": "midnight-nebula-dusk-inferno",
   "displayName": "Midnight Nebula Dusk Inferno",
   "description": "A theme that combines the syntax highlighting of \"Nebula Inferno\" and the editor colors of \"Midnight Dusk\"",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.68.0"
   },
